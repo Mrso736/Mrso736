@@ -1,6 +1,6 @@
 ### welcome
 
-This is my public repository on information i find facinating (which is mostly social dynamics)
+This is my public repository on information i find facinating (which is mostly social dynamics).
 
 <br>
 
