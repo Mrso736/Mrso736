@@ -5,15 +5,15 @@ This is my public repository on information i find facinating (which is mostly s
 <br>
 
 **Guides that are up-to-date:**
-- Charisma
+- _Charisma_
 
 <br>
 
 **Guides that are close to publishing:**
-- Reading and Observing People
-- Reading the Room
+- _Reading and Observing People_
+- _Reading the Room_
 
 <br>
 
 **Guides i am working on:**
-- Seduction (Romantic and Persuasive)
+- _Seduction (Romantic and Persuasive)_
